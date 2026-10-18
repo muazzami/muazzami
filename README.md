@@ -1,6 +1,6 @@
 ### Hi, I'm Muazzam 👋
 
-Lead engineer in Japan, building for clients since 2014. I scope the problem, design the system, write the code and look after it in production.
+Senior full-stack engineer and solutions architect in Japan, building for clients since 2014. I scope the problem, design the system, write the code and look after it in production.
 
 **Portfolio:** [muazzam.dev](https://muazzam.dev), with live demos of everything below.
 
