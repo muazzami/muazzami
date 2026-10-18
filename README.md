@@ -6,7 +6,7 @@ Senior full-stack engineer and solutions architect in Japan, building for client
 
 #### Things I've built
 - **[Qafied](https://qafied.link)**: visual feedback pinned to the actual page. One script tag, comments with screenshot and browser context, dashboard inbox. FastAPI · MongoDB · React
-- **RepoCMS**: edit a static site's JSON content as forms; commits to GitHub and Cloudflare rebuilds. An agency runs all its client sites on it. FastAPI · React 19 · Docker
+- **RepoCMS**: edit a static site's JSON content as forms. It commits to GitHub and Cloudflare rebuilds the site. An agency runs all its client sites on it. FastAPI · React 19 · Docker
 - **LineRichMenu**: design and switch LINE rich menus across organisations. Next.js · TypeScript · Supabase
 
 #### What I work with
